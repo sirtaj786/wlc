@@ -28,18 +28,6 @@ const Onedrive = () => {
                 }}
             >
                 <button>Open Picker</button>
-                {/* {
-                    data.length>0&&data.map((el)=>(
-                        <p>{el.webUrl}</p>
-                    ))
-                }
-                <p>{data}</p> */}
-                
-                
-               
-               
-
-
             </ReactOneDriveFilePicker>
            
 
