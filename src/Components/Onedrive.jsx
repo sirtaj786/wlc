@@ -27,6 +27,7 @@ const Onedrive = () => {
                     console.log(err)
                 }}
             >
+                <h1 className="text">Pick file</h1>
                 <button>Open Picker</button>
             </ReactOneDriveFilePicker>
            

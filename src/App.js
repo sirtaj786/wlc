@@ -6,8 +6,8 @@ import OneDriveUpload from './Components/OneDriveUpload';
 function App() {
   return (
     <div className="App">
-      <Onedrive/>
       <OneDriveUpload/>
+      <Onedrive/>
     </div>
   );
 }
